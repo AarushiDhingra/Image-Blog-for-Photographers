@@ -1,0 +1,15 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%
+
+}
+h2{
+	margin-left: 1.66%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #f1f1f1;
+    width:30%;
+    padding-bottom: 30px;
+}
