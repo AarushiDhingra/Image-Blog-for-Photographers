@@ -1,4 +1,4 @@
-# Image-Blog-for-Photographers
+# Photographers-Image-For-Blog
 This is a perfect template for bloggers to showcase their work
 ![](ss1.PNG)
 ![](ss2.PNG)
